@@ -25,5 +25,5 @@ This repository contains the code for a comprehensive sales data analysis projec
 - **Decision-Driven Analysis:** Contributed to data-driven decision-making by providing actionable insights derived from raw data.
 
 ### Connect with Me:
-- **LinkedIn:** [https://www.linkedin.com/in/khidhr-halab/](#)
+- **LinkedIn:** [Khidhr Halab](https://www.linkedin.com/in/khidhr-halab/)
 - **Email:** halabkhidhr@gmail.com
